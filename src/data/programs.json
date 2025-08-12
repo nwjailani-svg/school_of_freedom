@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "Programs - The School of Freedom",
+    "description": "Explore our comprehensive programs including virtual learning for Afghan girls, leadership development, ESL tutoring, and creative expression initiatives."
+  },
+  "hero": {
+    "title": "Our Programs",
+    "subtitle": "Comprehensive educational initiatives designed to empower, inspire, and transform lives through learning."
+  },
+  "programs": [
+    {
+      "icon": { "name": "Globe", "className": "w-12 h-12 text-gold" },
+      "title": "Virtual Learning for Afghan Girls",
+      "description": "Comprehensive online education programs designed specifically for Afghan girls, providing access to quality education despite geographical and social barriers.",
+      "features": [
+        "Live interactive classes",
+        "Recorded lessons for flexible learning",
+        "Digital literacy training",
+        "Safe learning environment"
+      ]
+    },
+    {
+      "icon": { "name": "Users", "className": "w-12 h-12 text-gold" },
+      "title": "Leadership & Mentorship",
+      "description": "Developing the next generation of leaders through one-on-one mentorship, leadership workshops, and personal development programs.",
+      "features": [
+        "Personal mentorship matching",
+        "Leadership skill development",
+        "Public speaking training",
+        "Career guidance"
+      ]
+    },
+    {
+      "icon": { "name": "GraduationCap", "className": "w-12 h-12 text-gold" },
+      "title": "ESL Tutoring & College Prep",
+      "description": "Supporting Afghan refugee youth in the U.S. with English language learning, academic tutoring, and college preparation services.",
+      "features": [
+        "English language instruction",
+        "Academic subject tutoring",
+        "College application support",
+        "Scholarship guidance"
+      ]
+    },
+    {
+      "icon": { "name": "Palette", "className": "w-12 h-12 text-gold" },
+      "title": "Student Artwork & Creative Expression",
+      "description": "Encouraging creativity and self-expression through art programs that help students process their experiences and share their stories.",
+      "features": [
+        "Art therapy sessions",
+        "Creative writing workshops",
+        "Digital art training",
+        "Cultural expression projects"
+      ]
+    }
+  ],
+  "artSection": {
+    "title": "Student Artwork & Expression",
+    "subtitle": "Our students express their hopes, dreams, and experiences through powerful artwork that tells their stories.",
+    "rows": [
+      {
+        "layout": "imageLeftQuoteRight",
+        "image": { "src": "art1.png", "alt": "Student artwork 1" },
+        "quote": "It wasn't always easy, but it's worth it.",
+        "quoteBy": "— Wagma, School of Freedom Student",
+        "body": "This powerful piece represents the resilience and determination of our students. Through art, they share their journey of overcoming challenges and finding strength in education and community."
+      },
+      {
+        "layout": "textLeftImageRight",
+        "title": "The Power of Creative Expression",
+        "paragraphs": [
+          "Art serves as a universal language that transcends barriers and allows our students to communicate their experiences, hopes, and dreams. Through creative expression, they process their journey and inspire others.",
+          "Each piece tells a story of courage, resilience, and the transformative power of education. These artworks remind us why our mission is so important and the impact we're making in young lives."
+        ],
+        "image": { "src": "art2.png", "alt": "Student artwork 2" }
+      }
+    ],
+    "miniGallery": {
+      "images": [{ "src": "art31.jpeg", "alt": "Student artwork 3" }]
+    },
+    "galleryLink": {
+      "href": "https://drive.google.com/drive/folders/1F2FfPeTWKtcKUegTJcPkv_bTowxjhBwz",
+      "title": "Explore More Student Art",
+      "subtitle": "Visit our full gallery to see additional drawings, paintings, and creative projects.",
+      "cta": "Open Gallery",
+      "icon": { "name": "ExternalLink", "className": "w-5 h-5" }
+    }
+  },
+  "impact": {
+    "title": "Making a Real Difference",
+    "subtitle": "Our programs are more than just educational initiatives—they're lifelines that provide hope, opportunity, and a pathway to a brighter future for Afghan girls and refugee youth.",
+    "items": [
+      {
+        "icon": { "name": "BookOpen", "className": "w-8 h-8 text-navy" },
+        "title": "Quality Education",
+        "text": "Providing world-class education regardless of location or circumstances."
+      },
+      {
+        "icon": { "name": "Heart", "className": "w-8 h-8 text-navy" },
+        "title": "Emotional Support",
+        "text": "Creating safe spaces for healing, growth, and personal development."
+      },
+      {
+        "icon": { "name": "Users", "className": "w-8 h-8 text-navy" },
+        "title": "Community Building",
+        "text": "Fostering connections and building supportive networks for lasting impact."
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "about": {
+    "title": "About Us - The School of Freedom",
+    "metaDescription": "Learn about The School of Freedom's mission to educate and empower Afghan girls and refugee youth through innovative programs and mentorship.",
+    "hero": {
+      "heading": "About Our Mission",
+      "subheading": "Dedicated to fostering education and empowerment for Afghan girls, guiding them toward independence and job opportunities."
+    },
+    "ourStory": {
+      "title": "Our Story",
+      "paragraphs": [
+        "The School of Freedom is dedicated to fostering education and empowerment for Afghan girls, guiding them toward independence and job opportunities. The educational situation in Afghanistan has been deeply affected by years of conflict, political instability, and social constraints, particularly limiting girls' access to education.",
+        "With a focus on innovation, we offer tailored programs and mentorship that create a nurturing environment where girls can thrive both academically and professionally. Our expertise spans educational development, leadership training, and advocacy for gender equality.",
+        "We are committed to breaking societal barriers and challenging norms to ensure that Afghan girls gain equal access to opportunities, enabling them to become influential leaders in their communities and contribute to a brighter future for Afghanistan."
+      ],
+      "image": {
+        "src": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/07/202207asia_afghanistan_girlsed.jpg?h=3f384d51&itok=GGBtrge7",
+        "alt": "Afghan girls in traditional dress studying with books"
+      }
+    },
+    "expandingReach": {
+      "title": "Expanding Our Reach",
+      "paragraph": "In addition to our global efforts, The School of Freedom is taking bold steps locally by launching a dual-immersion charter school in Sacramento. This school is designed to support refugee and newcomer students, offering a culturally responsive learning environment that values identity, language, and community. Through tailored instruction, academic support, and inclusive programming, we aim to ensure that newcomers not only adapt but thrive in their new educational journeys. This charter school reflects our commitment to building bridges between cultures and providing every student with the tools to succeed."
+    },
+    "usPrograms": {
+      "title": "Supporting Refugees in the U.S.",
+      "image": {
+        "src": "http://c.files.bbci.co.uk/64FA/production/_122005852_primaryreuterssmall.jpg",
+        "alt": "Diverse group of refugee students in American classroom"
+      },
+      "paragraphs": [
+        "In the U.S., The School of Freedom supports Afghan refugee youth through after-school tutoring, college preparation, ESL mentorship, and culturally inclusive advising.",
+        "We are currently in the process of launching a dual-immersion charter school in Sacramento to serve refugee and newcomer communities with language support, identity-affirming education, and long-term academic opportunity.",
+        "This groundbreaking initiative will provide a safe, supportive environment where refugee students can maintain their cultural identity while excelling academically in their new home."
+      ]
+    },
+    "coreValues": {
+      "sectionTitle": "Our Core Values",
+      "subtitle": "These principles guide everything we do and shape our approach to education and empowerment.",
+      "values": [
+        {
+          "icon": "Globe",
+          "title": "Global Impact",
+          "description": "Breaking geographical barriers to provide education worldwide."
+        },
+        {
+          "icon": "Target",
+          "title": "Focused Mission",
+          "description": "Dedicated specifically to empowering Afghan girls and refugee youth."
+        },
+        {
+          "icon": "Heart",
+          "title": "Compassionate Approach",
+          "description": "Understanding the unique challenges faced by our students."
+        },
+        {
+          "icon": "Users",
+          "title": "Community Building",
+          "description": "Creating supportive networks for lasting change."
+        }
+      ]
+    },
+    "quote": {
+      "text": "Education is the most powerful weapon which you can use to change the world.",
+      "author": "Nelson Mandela"
+    }
+  }
+}

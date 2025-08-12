@@ -1,0 +1,26 @@
+{
+  "logo": {
+    "src": "/logo.jpg",
+    "alt": "School of Freedom Logo",
+    "title": "The School of Freedom",
+    "tagline": "Education is Her Freedom"
+  },
+  "navItems": [
+    { "name": "Home", "path": "/" },
+    { "name": "About", "path": "/about" },
+    { "name": "Programs", "path": "/programs" },
+    { "name": "Team", "path": "/team" },
+    { "name": "Updates", "path": "/updates" },
+    { "name": "Contact", "path": "/contact" }
+  ],
+  "actions": {
+    "donate": {
+      "label": "Donate",
+      "href": "https://www.zeffy.com/donation-form/donate-to-make-a-difference-8491"
+    },
+    "petition": {
+      "label": "Sign Petition",
+      "href": "https://form.jotform.com/251385758940064"
+    }
+  }
+}

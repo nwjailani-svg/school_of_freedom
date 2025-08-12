@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Walid Jailani",
+    "position": "Founder/President",
+    "biography": [
+      "Walid Jailani is the President and Founder of the School of Freedom, an organization committed to empowering girls from underserved communities through education and women’s empowerment.",
+      "He recently graduated from the University of California, Davis, with a degree in Neurobiology, Physiology, and Behavior, and a minor in Education.",
+      "Walid's commitment to service extends far beyond his academic achievements. He volunteers at the Shifa Community Clinic and is a Nationally Certified EMT.",
+      "His efforts have been recognized with the California Region 3 Every Student Succeeding Award and the Presidential Medal of Volunteering.",
+      "Fluent in Farsi, Pashto, Dari, and English, he bridges cultural gaps and supports people from all backgrounds."
+    ],
+    "locality": "American",
+    "order": 1,
+    "img": "/walid1.jpg"
+  },
+  {
+    "name": "Robina Haqiqi",
+    "position": "Internal Vice President",
+    "biography": [
+      "Robina Haqiqi is a recent graduate from the University of California, Davis, where she earned her degree in Biological Sciences with a minor in Education.",
+      "Originally from Afghanistan, Robina is fluent in Dari, Farsi, Urdu, Hindi, and English.",
+      "Since 2021, she has worked as a dental assistant and is eager to pursue a career in dentistry.",
+      "She tutors Afghan girls whose education has been disrupted, helping them pursue their dreams."
+    ],
+    "locality": "American",
+    "order": 2,
+    "img": "/robinajpg.jpg"
+  },
+  {
+    "name": "Moheb Salemi",
+    "position": "External Vice President",
+    "biography": [
+      "My name is Moheb Salemi. I graduated in 2023 with a Bachelor’s degree in Economics from UC Davis.",
+      "I joined the School of Freedom to connect with my Afghan heritage and give back to those less fortunate."
+    ],
+    "locality": "American",
+    "order": 3,
+    "img": "/moheb.jpg"
+  },
+  {
+    "name": "Tayeeb Huda Jailani",
+    "position": "Director of Youth Advocacy & Engagment",
+    "biography": [
+      "Tayeeb Huda Jailani is studying Computer Science and Engineering at UC Davis.",
+      "He has over three years of tutoring experience in math and English, and excels in AP courses.",
+      "As a former English language learner, he is empathetic to students’ struggles.",
+      "He is active in youth advocacy and works with the International Rescue Committee.",
+      "He also leads several student organizations promoting inclusivity and support for Muslim students.",
+      "In his personal time, he enjoys exercising and hopes to pursue a career in engineering."
+    ],
+    "locality": "American",
+    "order": 4,
+    "img": "/tayeeb.jpg"
+  },
+  {
+    "name": "Ghezal Karimi",
+    "position": "Tutors/Teachers Coordinator",
+    "biography": [
+      "Ghezal Karimi is a recent UC Davis graduate with a degree in Psychology and Economics.",
+      "She is an incoming doctoral student in Clinical Psychology at Alliant International University.",
+      "Ghezal has actively contributed to mental health education and advocacy.",
+      "As an Afghan-American immigrant, she is passionate about giving back to her community.",
+      "Her work with the School of Freedom allows her to support Afghan girls in accessing education."
+    ],
+    "locality": "American",
+    "order": 5,
+    "img": "/ghezal.jpg"
+  },
+  {
+    "name": "Omar Alhuniti",
+    "position": "Outreach Coordinator",
+    "biography": [
+      "Omar Alhuniti is the Outreach Coordinator at SOF, focusing on community engagement and trust.",
+      "He has experience in nonprofit work, student support, and building career bridges.",
+      "With Palestinian roots, Omar understands displacement and carries a deep sense of community resilience.",
+      "He studies at UC Davis and is pursuing a healthcare career centered on compassion and accountability."
+    ],
+    "locality": "American",
+    "order": 6,
+    "img": "/omar.jpg"
+  },
+  {
+    "name": "Mariam Saleh",
+    "position": "Publicity/Press Coordinator",
+    "biography": [
+      "Mariam Saleh recently graduated from UC Davis with a degree in Neurobiology, Physiology, and Behavior, and a minor in Education.",
+      "Fluent in Arabic and English, she is passionate about connecting with diverse communities.",
+      "She has worked as a dental assistant for nearly three years and has tutored since high school.",
+      "Her work with School of Freedom helps Afghan girls pursue their dreams despite challenges."
+    ],
+    "locality": "American",
+    "order": 7,
+    "img": "/mariam.jpg"
+  },
+  {
+    "name": "Jasmine Alhuniti",
+    "position": "Finance Coordinator",
+    "biography": [
+      "Jasmine Alhuniti is the Finance Coordinator at School of Freedom.",
+      "She manages resources to ensure program sustainability and transparency.",
+      "With Palestinian roots, Jasmine is committed to empowering marginalized communities through education.",
+      "She ensures financial systems align to support Afghan girls’ futures."
+    ],
+    "locality": "American",
+    "order": 8,
+    "img": "/female-icon.png"
+  },
+  {
+    "name": "Masoud Rahman Mahmoodi",
+    "position": "Full-Stack Developer & Math Instructor",
+    "biography": [
+      "Masoud is a former third-year Computer Science student at Kabul University with experience in programming and web development.",
+      "He currently works as a Math Instructor at Willow Way and as a Full-Stack Developer at The School of Freedom.",
+      "He developed the organization’s website and upholds modern design and usability standards.",
+      "Now based in the United States, Masoud plans to continue his studies at a University of California campus.",
+      "His interests include software engineering, algorithms, and emerging technologies."
+    ],
+    "locality": "American",
+    "order": 9,
+    "img": "/masoud2.jpg"
+  },
+  {
+    "name": "Sadia Haidari",
+    "position": "Principal (Afghanistan Program)",
+    "biography": [],
+    "locality": "Afghanistan",
+    "order": 1,
+    "img": "/female-icon.png"
+  },
+  {
+    "name": "Husna Haidari",
+    "position": "Teacher",
+    "biography": [],
+    "locality": "Afghanistan",
+    "order": 2,
+    "img": "/female-icon.png"
+  },
+  {
+    "name": "Sahar Sadeed",
+    "position": "Teacher",
+    "biography": [],
+    "locality": "Afghanistan",
+    "order": 3,
+    "img": "/female-icon.png"
+  },
+  {
+    "name": "Rana Sayedi",
+    "position": "Teacher",
+    "biography": [],
+    "locality": "Afghanistan",
+    "order": 4,
+    "img": "/female-icon.png"
+  },
+  {
+    "name": "Shamila Dawari",
+    "position": "Teacher",
+    "biography": [],
+    "locality": "Afghanistan",
+    "order": 5,
+    "img": "/female-icon.png"
+  },
+  {
+    "name": "Freshta Baraki",
+    "position": "Teacher",
+    "biography": [],
+    "locality": "Afghanistan",
+    "order": 6,
+    "img": "/female-icon.png"
+  },
+  {
+    "name": "Muzhgan Hakimi",
+    "position": "Teacher",
+    "biography": [],
+    "locality": "Afghanistan",
+    "order": 7,
+    "img": "/female-icon.png"
+  },
+  {
+    "name": "Hamid Rahim Azizi",
+    "position": "Teacher",
+    "biography": [],
+    "locality": "Afghanistan",
+    "order": 8,
+    "img": "/male-icon.png"
+  },
+  {
+    "name": "Sadya Mohmmadi",
+    "position": "Teacher",
+    "biography": [],
+    "locality": "Afghanistan",
+    "order": 9,
+    "img": "/female-icon.png"
+  },
+  {
+    "name": "Zabiha Hakimi",
+    "position": "Teacher",
+    "biography": [],
+    "locality": "Afghanistan",
+    "order": 10,
+    "img": "/female-icon.png"
+  },
+  {
+    "name": "Hamid Nakzad",
+    "position": "Teacher",
+    "biography": [],
+    "locality": "Afghanistan",
+    "order": 11,
+    "img": "/male-icon.png"
+  }
+]

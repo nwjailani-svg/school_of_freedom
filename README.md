@@ -1,1 +1,1 @@
-# school_of_freedom
+# school_of_permission

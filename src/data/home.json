@@ -1,0 +1,92 @@
+{
+  "seo": {
+    "title": "The School of Freedom - Education is Her Freedom",
+    "description": "Empowering over 1,200 Afghan girls and refugee youth through education, mentorship, and leadership development. Founded by Walid Jailani."
+  },
+  "hero": {
+    "imageUrl": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SYAG5VDK6NLOLC3C7C5OR6OBKI.jpg",
+    "imageAlt": "Afghan girls celebrating graduation with cake cutting ceremony",
+    "title": "Education is Her Freedom",
+    "subtitle": "Empowering over 1,200 Afghan girls and refugee youth through education and courage",
+    "buttons": [
+      {
+        "label": "Donate Now",
+        "href": "https://www.zeffy.com/donation-form/donate-to-make-a-difference-8491",
+        "variant": "primary"
+      },
+      {
+        "label": "Sign the Petition",
+        "href": "https://form.jotform.com/251385758940064",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "quote": {
+    "text": "It wasn't always easy, but it's worth it.",
+    "author": "— Wagma, School of Freedom Student"
+  },
+  "stats": [
+    { "number": "1,200+", "label": "Students Empowered" },
+    { "number": "50+", "label": "Dedicated Teachers" },
+    { "number": "3", "label": "Countries Served" },
+    { "number": "100%", "label": "Hope & Determination" }
+  ],
+  "featuresSection": {
+    "title": "Transforming Lives Through Education",
+    "subtitle": "We believe that education is the most powerful tool for change. Through our comprehensive programs, we're breaking barriers and creating opportunities for Afghan girls and refugee youth.",
+    "features": [
+      {
+        "icon": "BookOpen",
+        "title": "Virtual Learning",
+        "description": "Providing quality education to Afghan girls through innovative online platforms."
+      },
+      {
+        "icon": "Users",
+        "title": "Mentorship Programs",
+        "description": "Connecting students with mentors for guidance, support, and leadership development."
+      },
+      {
+        "icon": "Heart",
+        "title": "Refugee Support",
+        "description": "Supporting Afghan refugee youth in the U.S. with tutoring and college preparation."
+      },
+      {
+        "icon": "Award",
+        "title": "Leadership Training",
+        "description": "Developing the next generation of leaders through comprehensive training programs."
+      }
+    ]
+  },
+  "mission": {
+    "title": "Our Mission",
+    "paragraphs": [
+      "The School of Freedom is dedicated to fostering education and empowerment for Afghan girls, guiding them toward independence and job opportunities. We're breaking societal barriers and challenging norms to ensure equal access to education.",
+      "In the United States, we support Afghan refugee youth through after-school tutoring, college preparation, ESL mentorship, and culturally inclusive advising."
+    ],
+    "cta": {
+      "label": "Learn More About Us",
+      "href": "/about",
+      "icon": "ArrowRight"
+    },
+    "image": {
+      "url": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2021/10/202110asia_afghanistan_woman.jpg?h=e5aec6c8&itok=FjfBDv9o",
+      "alt": "Afghan students studying together in classroom"
+    }
+  },
+  "finalCta": {
+    "title": "Join Us in Changing Lives",
+    "subtitle": "Every donation, every signature, every voice matters. Together, we can ensure that education remains a fundamental right for every girl, everywhere.",
+    "buttons": [
+      {
+        "label": "Make a Donation",
+        "href": "https://www.zeffy.com/donation-form/donate-to-make-a-difference-8491",
+        "variant": "primary"
+      },
+      {
+        "label": "Support Our Petition",
+        "href": "https://form.jotform.com/251385758940064",
+        "variant": "secondary"
+      }
+    ]
+  }
+}

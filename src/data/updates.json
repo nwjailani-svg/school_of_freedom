@@ -1,0 +1,86 @@
+{
+  "pressItems": [
+    {
+      "type": "video",
+      "title": "Watch: School of Freedom on YouTube",
+      "publication": "YouTube",
+      "date": "January 2025",
+      "url": "https://youtu.be/gA7O4pLviGs",
+      "description": "Watch our interview and story about how The School of Freedom is empowering Afghan girls and refugee youth."
+      
+    },
+    {
+      "type": "podcast",
+      "title": "Student-led school empowers 1,200 Afghan girls",
+      "publication": "UC Davis Face to Face",
+      "date": "January 2025",
+      "url": "https://www.ucdavis.edu/news/podcasts-and-shows/face-to-face/student-led-school-empowers-1200-afghan-girls",
+      "description": "Podcast interview discussing the impact and growth of The School of Freedom program."
+    },
+    {
+      "type": "article",
+      "title": "UC Davis student founds School of Freedom to educate Afghan girls amid Taliban ban",
+      "publication": "The Aggie",
+      "date": "January 23, 2025",
+      "url": "https://theaggie.org/2025/01/23/uc-davis-student-founds-school-of-freedom-to-educate-afghan-girls-amid-taliban-ban/",
+      "description": "In-depth coverage of Walid Jailani's mission to provide education to Afghan girls through The School of Freedom.",
+      "imgSrc": "/walidNewsPaper.jpg"
+    },
+    {
+      "type": "news",
+      "title": "Partnership with AEWA",
+      "publication": "AEWA",
+      "date": "August 2025",
+      "url": "https://aewa.org.af/#membership",
+      "description": "School of Freedom is proud to announce our partnership with the Alliance for the Education of Women in Afghanistan (AEWA).",
+      "imgSrc": "/image3.jpg"
+    },
+    {
+      "type": "news",
+      "title": "Partnership with Elk Grove Unified School District",
+      "publication": "EGUSD",
+      "date": "August 2025",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLScQbIyHaLwWHMRjTwXwFH2Gc_SNPyOs0BMAjPYrU-FaIHIyAQ/viewform",
+      "description": "School of Freedom is excited to announce our partnership with Elk Grove Unified School District to offer remote volunteering opportunities in tutoring, mentorship, and college preparation support, mainly for refugee and newcomer kids. If interested, please click the link and join us.",
+      "imgSrc": "/image4jpg.jpg"
+    },
+    {
+      "type": "news",
+      "title": "Afghan-American Community Organization’s 10th Annual Conference",
+      "publication": "AACO",
+      "date": "August 2025",
+      "url": "#",
+      "description": "It was a pleasure to facilitate at the Afghan-American Community Organization’s 10th Annual Conference, sharing insights on bridging educational gaps for Afghan girls and refugee youth.",
+      "imgSrc": "/image4jpg.jpg"
+    }
+  ],
+  "programHighlights": [
+    {
+      "title": "A Light in the Dark: How Our Secret Schools are Thriving",
+      "date": "July 15, 2025",
+      "author": "Walid Jailani, CEO",
+      "description": "Despite the immense challenges, our network of underground schools in Afghanistan continues to grow. Discover how our brave teachers and resilient students are keeping the flame of education alive...",
+      "link": "#"
+    },
+    {
+      "title": "Announcing the 'Future Leaders' U.S. Charter School Initiative",
+      "date": "July 1, 2025",
+      "author": "Walid Jailani, CEO",
+      "description": "We are thrilled to announce the next chapter for School of Freedom: a new charter school in the U.S. dedicated to supporting refugee youth. Learn about our vision and how you can help.",
+      "link": "#"
+    },
+    {
+      "title": "Student Spotlight: Fatima's Journey to Becoming a Coder",
+      "date": "June 20, 2025",
+      "author": "Sadia Haidari, Mentor",
+      "description": "Meet Fatima, a recent graduate who defied the odds to learn coding through our online program. Today, she's working as a junior developer and inspiring her entire community.",
+      "link": "#"
+    }
+  ],
+  "mediaKit": [
+    { "title": "High-Resolution Photos", "description": "Professional photos of our team, students, and programs", "type": "Images" },
+    { "title": "Founder Biography", "description": "Detailed background information about Walid Jailani", "type": "Document" },
+    { "title": "Program Statistics", "description": "Key numbers and impact metrics from our programs", "type": "Data" },
+    { "title": "Student Stories", "description": "Inspiring testimonials and success stories", "type": "Stories" }
+  ]
+}
