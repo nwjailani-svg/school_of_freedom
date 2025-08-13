@@ -1,7 +1,7 @@
 [
   {
     "name": "Walid Jailani",
-    "position": "Founder/President",
+    "position": "Founder & President",
     "biography": [
       "Walid Jailani is the President and Founder of the School of Freedom, an organization committed to empowering girls from underserved communities through education and women’s empowerment.",
       "He recently graduated from the University of California, Davis, with a degree in Neurobiology, Physiology, and Behavior, and a minor in Education.",
@@ -15,7 +15,7 @@
   },
   {
     "name": "Robina Haqiqi",
-    "position": "Internal Vice President",
+    "position": "Vice President/Founding Memeber",
     "biography": [
       "Robina Haqiqi is a recent graduate from the University of California, Davis, where she earned her degree in Biological Sciences with a minor in Education.",
       "Originally from Afghanistan, Robina is fluent in Dari, Farsi, Urdu, Hindi, and English.",
@@ -28,13 +28,13 @@
   },
   {
     "name": "Moheb Salemi",
-    "position": "External Vice President",
+    "position": "Program Manager/Founding Member",
     "biography": [
       "My name is Moheb Salemi. I graduated in 2023 with a Bachelor’s degree in Economics from UC Davis.",
       "I joined the School of Freedom to connect with my Afghan heritage and give back to those less fortunate."
     ],
     "locality": "American",
-    "order": 3,
+    "order": 4,
     "img": "/moheb.jpg"
   },
   {
@@ -49,11 +49,11 @@
       "In his personal time, he enjoys exercising and hopes to pursue a career in engineering."
     ],
     "locality": "American",
-    "order": 4,
+    "order": 5,
     "img": "/tayeeb.jpg"
   },
   {
-    "name": "Ghezal Karimi",
+    "name": "Ghezal Karimi/Founding Memeber",
     "position": "Tutors/Teachers Coordinator",
     "biography": [
       "Ghezal Karimi is a recent UC Davis graduate with a degree in Psychology and Economics.",
@@ -80,7 +80,7 @@
     "img": "/omar.jpg"
   },
   {
-    "name": "Mariam Saleh",
+    "name": "Mariam Saleh/Founding Memeber",
     "position": "Publicity/Press Coordinator",
     "biography": [
       "Mariam Saleh recently graduated from UC Davis with a degree in Neurobiology, Physiology, and Behavior, and a minor in Education.",
@@ -93,7 +93,7 @@
     "img": "/mariam.jpg"
   },
   {
-    "name": "Jasmine Alhuniti",
+    "name": "Jasmine Alhuniti/Founding Memeber",
     "position": "Finance Coordinator",
     "biography": [
       "Jasmine Alhuniti is the Finance Coordinator at School of Freedom.",
