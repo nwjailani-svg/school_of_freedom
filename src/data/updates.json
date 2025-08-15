@@ -76,11 +76,5 @@
       "description": "Meet Fatima, a recent graduate who defied the odds to learn coding through our online program. Today, she's working as a junior developer and inspiring her entire community.",
       "link": "#"
     }
-  ],
-  "mediaKit": [
-    { "title": "High-Resolution Photos", "description": "Professional photos of our team, students, and programs", "type": "Images" },
-    { "title": "Founder Biography", "description": "Detailed background information about Walid Jailani", "type": "Document" },
-    { "title": "Program Statistics", "description": "Key numbers and impact metrics from our programs", "type": "Data" },
-    { "title": "Student Stories", "description": "Inspiring testimonials and success stories", "type": "Stories" }
   ]
 }
