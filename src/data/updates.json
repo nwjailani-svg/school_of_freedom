@@ -9,14 +9,16 @@
       "description": "Watch our interview and story about how The School of Freedom is empowering Afghan girls and refugee youth."
        },
        {
-  "type": "video",
-  "title": "Watch: Walid Jailani at UC Regents UC Inspires Series",
-  "publication": "University of California",
-  "date": "September 2025",
-  "url": "https://photos.app.goo.gl/2DCCA9SgarkMxBtH7",
-  "description": "Watch highlights from Walid Jailani’s presentation at the UC Board of Regents UC Inspires series, where he represented UC Davis and shared the story of the School of Freedom — from its beginnings as a student-led initiative to a nonprofit advancing education for Afghan girls abroad and refugee youth in Sacramento County."
-    
-    
+  "type": "article",
+  "title": "UC Davis Alum Creates Underground Education Pipeline for Afghan Girls",
+  "publication": "CapRadio",
+  "date": "August 29, 2025",
+  "url": "https://www.capradio.org/articles/2025/08/29/uc-davis-alum-creates-underground-education-pipeline-for-afghan-girls/",
+  "description": "CapRadio profiles how Walid Jailani and The School of Freedom rapidly scaled remote education for Afghan girls—over 1,200 served, safety protections in place, and a curriculum spanning English, math, science, and art.",
+  "imgSrc": "/image_capradio_pipeline.jpg"
+
+
+         
     },
     {
       "type": "podcast",
