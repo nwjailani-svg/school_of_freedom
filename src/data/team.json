@@ -119,6 +119,23 @@
     "order": 9,
     "img": "/masoud2.jpg"
   },
+
+{
+  "name": "Nelab Rahimi",
+  "position": "Freedom Fellow",
+  "biography": [
+    "Nelab Rahimi graduated with a B.S. in Global Disease Biology from the University of California, Davis.",
+    "Originally from Afghanistan, she is fluent in Dari, Pashto, and English.",
+    "Nelab has extensive experience working with refugee families and children, serving as both a translator and healthcare assistant at Shifa Community Clinic.",
+    "She later continued her work in education as a tutor with the Refugee Enrichment and Development Organization (REDA).",
+    "Her goal is to support newcomers as they navigate life in the United States and to help underserved communities access education and healthcare opportunities."
+  ],
+  "locality": "American",
+  "order": 5,
+  "img": "/nelab.jpg"
+}
+
+  
   {
     "name": "Sadia Haidari",
     "position": "Principal/Founding Member (Afghanistan Program)",
