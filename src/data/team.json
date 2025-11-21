@@ -131,11 +131,42 @@
     "Her goal is to support newcomers as they navigate life in the United States and to help underserved communities access education and healthcare opportunities."
   ],
   "locality": "American",
-  "order": 5,
-  "img": "/nelab.jpg"
+  "order": 6,
+  "img": "/Nelab.jpg"
 },
 
-  
+  {
+  "name": "Maria Alrawi",
+  "position": "Freedom Fellow",
+  "biography": [
+    "Maria Alrawi is a senior at California State University, Sacramento, where she is pursuing a degree in Interior Architecture.",
+    "She brings strong communication skills, patience, cultural awareness, and fluency in both English and Arabic.",
+    "Maria has experience serving diverse communities through her volunteer work at Care Medical Clinic, where she assisted with front desk duties, medical charting, and translation for Arabic-speaking patients.",
+    "She currently works in the IPGE Office at Sacramento State as a front desk assistant and passport agent, supporting international students and helping process passport applications.",
+    "Maria also serves as an IHSS provider, offering reliable and compassionate care to individuals in need.",
+    "Her dedication to service, along with certifications in medical assisting, biliteracy recognition, and passport processing, reflect her commitment to helping others and supporting immigrant and refugee families."
+  ],
+  "locality": "American",
+  "order": 6,
+  "img": "/Maria.jpg"
+},
+
+  {
+  "name": "Bidaa Saleh",
+  "position": "Freedom Fellow",
+  "biography": [
+    "Bidaa Saleh is a senior at Encina High School with a strong commitment to leadership, community service, and educational equity.",
+    "She has been an active member of Student Government since her freshman year and currently serves as Student Body President, a role that has strengthened her communication, organization, and team-building skills.",
+    "Bidaa is the founder of Compassion Crew, a volunteer club focused on community service, and the co-founder of the Arab Student Union, where she promotes cultural inclusion, representation, and student engagement.",
+    "Her internship with the Youth Mental Health Academy sparked her passion for supporting student well-being, mental health awareness, and academic success.",
+    "As a former English learner herself, Bidaa is dedicated to helping multilingual students build confidence and access academic resources. She hopes to mentor students in subjects such as math, English, and science, as well as provide guidance on college applications, scholarships, and personal statements.",
+    "Bidaa brings compassion, creativity, and a deep belief in the power of mentorship, and she is eager to provide the support she wishes she had when she first arrived in the United States."
+  ],
+  "locality": "American",
+  "order": 7,
+  "img": "/Bidaa.jpg"
+},
+
   {
     "name": "Sadia Haidari",
     "position": "Principal/Founding Member (Afghanistan Program)",
