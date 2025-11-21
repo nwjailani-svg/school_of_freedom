@@ -1,6 +1,24 @@
 {
   "pressItems": [
 
+    {
+  "type": "event",
+  "title": "The Community Spotlight Series: Featuring The School of Freedom Project",
+  "host": "Tarbiya House Natomas",
+  "date": "November 21, 2025",
+  "location": "Tarbiya House Natomas",
+  "image": "Tarbiya event .png",
+  "description": "A live, podcast-style community conversation highlighting The School of Freedom’s mission, impact, and the transformative power of education for Afghan girls and refugee students. Hosted as part of Tarbiya House’s monthly Spotlight Series, the event explored themes of educational access, service, and liberation through learning."
+},
+
+{
+  "type": "video",
+  "title": "Transforming Education for Afghan Girls: A Conversation with the School of Freedom",
+  "publication": "Center for Immigrant Refugee Health (CIRH)",
+  "date": "2024",
+  "url": "https://www.youtube.com/watch?v=SoU8phsrpTo",
+  "description": "In this English-language interview, Jasmin Kouhkan, MSW and Refugee Student Wellness Advisor at CIRH, speaks with Moheb Salemi, Program Manager and Founding Member of the School of Freedom, about how the initiative is reshaping education for Afghan girls and refugee youth. The discussion highlights the School of Freedom’s mission to provide accessible, culturally responsive learning opportunities for girls banned from formal education under Taliban rule, as well as newcomer students in the United States. Through remote learning, after-school tutoring, mentorship, and academic advising, the program emphasizes dignity, safety, and opportunity, empowering students to reclaim their right to learn. The video includes both a presentation and a Q&A session."
+},
 
     {
   "type": "video",
@@ -11,17 +29,6 @@
   "description": "In this Dari-language interview, Rafiullah Sadiq, MD and Refugee Health Navigator at CIRH, speaks with Najiullah Walid Jailani, Founder and President of the School of Freedom, about how the organization is transforming education for Afghan girls and refugee youth. The conversation highlights the program’s mission to provide accessible, culturally responsive learning opportunities for girls banned from schooling under Taliban rule and for newcomer students in the United States. Featuring both a presentation and Q&A session, the video explores the School of Freedom’s remote learning model, after-school tutoring, community mentorship, and commitment to dignity, safety, and opportunity."
 },
 
-{
-  "type": "event",
-  "title": "The Community Spotlight Series: Featuring The School of Freedom Project",
-  "host": "Tarbiya House Natomas",
-  "date": "November 21, 2025",
-  "location": "Tarbiya House Natomas",
-  "image": "Tarbiya event .png",
-  "description": "A live, podcast-style community conversation highlighting The School of Freedom’s mission, impact, and the transformative power of education for Afghan girls and refugee students. Hosted as part of Tarbiya House’s monthly Spotlight Series, the event explored themes of educational access, service, and liberation through learning."
-},
-    
-    
     
     {
       "type": "video",
