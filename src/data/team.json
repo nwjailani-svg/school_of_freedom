@@ -166,6 +166,22 @@
   "order": 7,
   "img": "/Bidaa.jpg"
 },
+  {
+  "name": "Dina Morsy",
+  "position": "Tutor",
+  "biography": [
+    "Dina Morsy is a fourth-year undergraduate student at UC Davis on the pre-med track, double majoring in Human Biology and Cognitive Science. She is deeply committed to leadership, community service, and advancing equality for all.",
+    "She is the founder of MENAMED, a pre-health society at UC Davis dedicated to increasing the representation of minority populations in healthcare. Through MENAMED, Dina works to bridge cultural gaps, mentor minority students pursuing health professions, and promote culturally competent care for marginalized communities.",
+    "Dina also serves as a Monitor at Shifa Community Clinic, a student-run clinic that provides high-quality, free, multilingual, and multicultural healthcare to medically underserved communities.",
+    "In addition, she is the founder of Peace of Cake, an initiative that hosts bake sales in which 100% of the proceeds are donated internationally to support countries facing humanitarian crises.",
+    "Across all her work, Dina is driven by a commitment to empowering underserved communities through education, compassion, and advocacy. She aims to ensure that every individual has the opportunity to pursue their goals regardless of the barriers they face.",
+    "Dina is excited to support students through mentorship, academic guidance, and encouragement as they work toward their own dreams."
+  ],
+  "locality": "American",
+  "order": 6,
+  "img": "/Dina Morsy.jpeg"
+},
+
 
   {
     "name": "Sadia Haidari",
