@@ -39,7 +39,7 @@
   },
   {
     "name": "Tayeeb Huda Jailani",
-    "position": "Director of Youth Advocacy & Engagment",
+    "position": "Vice President at UC Davis chapter",
     "biography": [
       "Tayeeb Huda Jailani is studying Computer Science and Engineering at UC Davis.",
       "He has over three years of tutoring experience in math and English, and excels in AP courses.",
@@ -49,7 +49,7 @@
       "In his personal time, he enjoys exercising and hopes to pursue a career in engineering."
     ],
     "locality": "American",
-    "order": 4,
+    "order": 5,
     "img": "/tayeeb.jpg"
   },
   {
@@ -68,7 +68,7 @@
   },
   {
     "name": "Omar Alhuniti",
-    "position": "SOF UC Davis Club President",
+    "position": "President at UC Davis chapter",
     "biography": [
       "Omar Alhuniti is the Outreach Coordinator at SOF, focusing on community engagement and trust.",
       "He has experience in nonprofit work, student support, and building career bridges.",
@@ -137,7 +137,7 @@
 
   {
   "name": "Maria Alrawi",
-  "position": "Freedom Fellow",
+  "position": "Bilingual Instructional Assistant (BIA)",
   "biography": [
     "Maria Alrawi is a senior at California State University, Sacramento, where she is pursuing a degree in Interior Architecture.",
     "She brings strong communication skills, patience, cultural awareness, and fluency in both English and Arabic.",
@@ -153,7 +153,7 @@
 
   {
   "name": "Bidaa Saleh",
-  "position": "Freedom Fellow",
+  "position": "Bilingual Instructional Assistant (BIA)",
   "biography": [
     "Bidaa Saleh is a senior at Encina High School with a strong commitment to leadership, community service, and educational equity.",
     "She has been an active member of Student Government since her freshman year and currently serves as Student Body President, a role that has strengthened her communication, organization, and team-building skills.",
@@ -168,7 +168,7 @@
 },
   {
   "name": "Dina Morsy",
-  "position": "Tutor",
+  "position": "Bilingual Instructional Assistant (BIA)",
   "biography": [
     "Dina Morsy is a fourth-year undergraduate student at UC Davis on the pre-med track, double majoring in Human Biology and Cognitive Science. She is deeply committed to leadership, community service, and advancing equality for all.",
     "She is the founder of MENAMED, a pre-health society at UC Davis dedicated to increasing the representation of minority populations in healthcare. Through MENAMED, Dina works to bridge cultural gaps, mentor minority students pursuing health professions, and promote culturally competent care for marginalized communities.",
@@ -181,6 +181,37 @@
   "order": 6,
   "img": "/Dina Morsy.jpeg"
 },
+{
+  "name": "Yasmeen Ibrahim",
+  "position": "Bilingual Instructional Assistant (BIA)",
+  "biography": [
+    "Yasmeen Ibrahim is a senior at UC Davis, majoring in Human Biology with a minor in Arabic Studies.",
+    "She is passionate about addressing educational gaps and inequalities by expanding mentorship opportunities and supporting underserved communities. Through her involvement in undergraduate research, mentorship, and tutoring, Yasmeen has built a strong commitment to educational equity.",
+    "She has volunteered at dental clinics as a trained dental assistant and continues to serve her community through local food drives, blood drives, and outreach events.",
+    "Yasmeen hopes to use her experiences to empower individuals both locally and globally, ensuring that students have access to the resources and support they need to succeed.",
+    "Her dedication to service, education, and community impact guides her work as a tutor, where she strives to create meaningful learning experiences for every student she supports.",
+    "Yasmeen looks forward to contributing her compassion, leadership, and academic strengths to help students reach their full potential."
+  ],
+  "locality": "American",
+  "order": 8,
+  "img": "/Yasmeen Ibrahim.jpg"
+}, 
+  {
+  "name": "Nada Aysheh",
+  "position": "Bilingual Instructional Assistant (BIA)",
+  "biography": [
+    "Nada Aysheh is a senior at UC Davis majoring in Human Biology and minoring in both Arabic Studies and Psychology.",
+    "She has extensive volunteer experience supporting underserved communities, including work at Shifa Community Clinic, her local mosque, and the Sacramento Convention Center for disability-inclusive events, along with additional community service roles throughout the Sacramento area.",
+    "Nada is also a trained dental assistant and has gained valuable experience working in clinical and community-oriented health settings.",
+    "She currently tutors Arabic and has previously tutored General Chemistry. Fluent in both Arabic and English, she values cultural connection, education, and advocacy.",
+    "Nada is passionate about helping students grow academically and personally through mentorship, encouragement, and culturally responsive support.",
+    "Her long-term goal is to attend dental school and help expand access to quality dental care for communities who need it most."
+  ],
+  "locality": "American",
+  "order": 9,
+  "img": "/Nada Aysheh.jpg"
+}
+
 
 
   {
