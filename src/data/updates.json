@@ -1,6 +1,17 @@
 {
   "pressItems": [
 
+
+{
+  "type": "news",
+  "title": "CPR Training and Certification Event",
+  "publication": "School of Freedom",
+  "date": "April 2026",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7446824188994289664",
+  "description": "School of Freedom recently hosted a CPR training and certification event, bringing together students and community members to gain life-saving skills. We are grateful to everyone who participated and helped make this event a success. Through initiatives like this, we continue to promote safety, preparedness, and community empowerment.",
+  "imgSrc": "/cpr-event.jpg"
+},
+
  {
   "type": "Event",
   "title": "The Community Spotlight Series: Featuring The School of Freedom Project",
