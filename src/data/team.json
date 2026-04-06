@@ -223,6 +223,19 @@
     "img": "/female-icon.png"
   },
   {
+  "name": "Nouman Siddiqi",
+  "position": "Technology Support / Education Advocate",
+  "biography": [
+    "I hold a Bachelor of Computer Applications and I am originally from Afghanistan.",
+    "Alongside my academic background in technology, I have been actively involved in supporting girls’ education rights in Afghanistan.",
+    "I have participated in initiatives that promote access to education, raise awareness about gender equality, and advocate for empowering women through education.",
+    "My combined experience in computer applications and social advocacy reflects my commitment to professional growth and making a positive impact in society."
+  ],
+  "locality": "Afghanistan",
+  "order": 3,
+  "img": "/nouman.jpeg"
+},
+  {
     "name": "Husna Haidari",
     "position": "Teacher",
     "biography": [],
