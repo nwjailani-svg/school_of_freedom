@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Toaster } from '@/components/ui/toaster';
 import Navigation from '@/components/Navigation';
 import Footer from '@/components/Footer';
+import ScrollToTop from '@/components/ScrollToTop';
 import Home from '@/pages/Home.jsx';
 import About from '@/pages/About.jsx';
 import Programs from '@/pages/Programs.jsx';
@@ -11,10 +12,12 @@ import Donate from '@/pages/Donate.jsx';
 import Petition from '@/pages/Petition.jsx';
 import Updates from '@/pages/Updates.jsx';
 import Contact from '@/pages/Contact.jsx';
+import NotFound from '@/pages/NotFound.jsx';
 
 function App() {
   return (
     <Router>
+      <ScrollToTop />
       <div className="min-h-screen flex flex-col">
         <Navigation />
         <main className="flex-grow">
@@ -25,8 +28,9 @@ function App() {
             <Route path="/team" element={<Team />} />
             <Route path="/donate" element={<Donate />} />
             <Route path="/petition" element={<Petition />} />
-            <Route path="/Updates" element={<Updates />} />
+            <Route path="/updates" element={<Updates />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="*" element={<NotFound />} />
           </Routes>
         </main>
         <Footer />
