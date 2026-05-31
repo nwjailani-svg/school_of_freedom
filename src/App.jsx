@@ -4,6 +4,7 @@ import { Toaster } from '@/components/ui/toaster';
 import ErrorBoundary from '@/components/ErrorBoundary';
 import Navigation from '@/components/Navigation';
 import Footer from '@/components/Footer';
+import ScrollToTop from '@/components/ScrollToTop';
 import Home from '@/pages/Home.jsx';
 import About from '@/pages/About.jsx';
 import Programs from '@/pages/Programs.jsx';
@@ -12,6 +13,7 @@ import Donate from '@/pages/Donate.jsx';
 import Petition from '@/pages/Petition.jsx';
 import Updates from '@/pages/Updates.jsx';
 import Contact from '@/pages/Contact.jsx';
+import NotFound from '@/pages/NotFound.jsx';
 
 function App() {
   return (

@@ -115,7 +115,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="border-t border-gray-700 mt-8 pt-8 text-center space-y-2">
           <p className="text-gray-300 flex items-center justify-center space-x-2">
-            <span>© 2025 The School of Freedom. Made with</span>
+            <span>© {new Date().getFullYear()} The School of Freedom. Made with</span>
             <Heart size={16} className="text-gold" />
             <span>for education and freedom.</span>
           </p>
