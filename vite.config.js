@@ -1,6 +1,7 @@
 import path from 'node:path';
 import react from '@vitejs/plugin-react';
 import { createLogger, defineConfig } from 'vite';
+import { ViteImageOptimizer } from 'vite-plugin-image-optimizer';
 
 const isDev = process.env.NODE_ENV !== 'production';
 let inlineEditPlugin, editModeDevPlugin;
@@ -194,7 +195,24 @@ export default defineConfig({
 	plugins: [
 		...(isDev ? [inlineEditPlugin(), editModeDevPlugin()] : []),
 		react(),
-		addTransformIndexHtml
+		addTransformIndexHtml,
+		// Compress images (bundled and in /public) at build time.
+		// Keeps the same files/paths, so no code references change.
+		ViteImageOptimizer({
+			png: { quality: 80 },
+			jpeg: { quality: 80 },
+			jpg: { quality: 80 },
+			webp: { quality: 80 },
+			svg: {
+				multipass: true,
+				plugins: [
+					{
+						name: 'preset-default',
+						params: { overrides: { removeViewBox: false } },
+					},
+				],
+			},
+		}),
 	],
 	server: {
 		cors: true,
