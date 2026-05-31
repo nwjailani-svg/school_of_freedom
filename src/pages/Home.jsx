@@ -2,6 +2,8 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 import { motion } from 'framer-motion';
 import { BookOpen, Users, Heart, Award, ArrowRight } from 'lucide-react';
+import LinkButton from '@/components/ui/LinkButton';
+import { fadeUp, fadeInLeft, fadeInRight, scaleIn } from '@/lib/animations';
 import data from '../data/home.json';
 
 // Map string keys from JSON → Lucide icon components
@@ -12,20 +14,6 @@ const ICONS = {
   Award,
   ArrowRight,
 };
-
-const isExternal = (href) => typeof href === 'string' && /^https?:\/\//i.test(href);
-
-const Button = ({ label, href = '#', variant = 'primary' }) => (
-  <a
-    href={href}
-    target={isExternal(href) ? '_blank' : undefined}
-    rel={isExternal(href) ? 'noopener noreferrer' : undefined}
-    className={`${variant === 'primary' ? 'btn-primary' : 'btn-secondary'} text-lg px-8 py-4`}
-    aria-label={label}
-  >
-    {label}
-  </a>
-);
 
 const Home = () => {
   // Defensive defaults so missing JSON fields don't crash the page
@@ -91,7 +79,7 @@ const Home = () => {
               transition={{ duration: 0.8, delay: 0.6 }}
             >
               {hero.buttons.map((b, i) => (
-                <Button key={i} {...b} />
+                <LinkButton key={i} {...b} className="text-lg px-8 py-4" />
               ))}
             </motion.div>
           ) : null}
@@ -104,9 +92,9 @@ const Home = () => {
           <div className="container mx-auto px-4">
             <motion.div
               className="quote-card max-w-4xl mx-auto text-center"
-              initial={{ opacity: 0, scale: 0.9 }}
-              whileInView={{ opacity: 1, scale: 1 }}
-              transition={{ duration: 0.8 }}
+              variants={scaleIn}
+              initial="hidden"
+              whileInView="show"
               viewport={{ once: true }}
             >
               {quote?.text ? (
@@ -128,8 +116,9 @@ const Home = () => {
               {stats.map((stat, index) => (
                 <motion.div
                   key={`${stat?.label ?? 'stat'}-${index}`}
-                  initial={{ opacity: 0, y: 30 }}
-                  whileInView={{ opacity: 1, y: 0 }}
+                  variants={fadeUp}
+                  initial="hidden"
+                  whileInView="show"
                   transition={{ duration: 0.6, delay: index * 0.1 }}
                   viewport={{ once: true }}
                 >
@@ -149,9 +138,9 @@ const Home = () => {
             {(featuresSection?.title || featuresSection?.subtitle) && (
               <motion.div
                 className="text-center mb-16"
-                initial={{ opacity: 0, y: 30 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.8 }}
+                variants={fadeUp}
+                initial="hidden"
+                whileInView="show"
                 viewport={{ once: true }}
               >
                 {featuresSection?.title ? <h2 className="section-title">{featuresSection.title}</h2> : null}
@@ -170,8 +159,9 @@ const Home = () => {
                   <motion.div
                     key={`${feature.title ?? 'feature'}-${index}`}
                     className="card p-6 text-center"
-                    initial={{ opacity: 0, y: 30 }}
-                    whileInView={{ opacity: 1, y: 0 }}
+                    variants={fadeUp}
+                    initial="hidden"
+                    whileInView="show"
                     transition={{ duration: 0.6, delay: index * 0.1 }}
                     viewport={{ once: true }}
                   >
@@ -200,9 +190,9 @@ const Home = () => {
           <div className="container mx-auto px-4">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
               <motion.div
-                initial={{ opacity: 0, x: -50 }}
-                whileInView={{ opacity: 1, x: 0 }}
-                transition={{ duration: 0.8 }}
+                variants={fadeInLeft}
+                initial="hidden"
+                whileInView="show"
                 viewport={{ once: true }}
               >
                 {mission?.title ? <h2 className="section-title mb-6">{mission.title}</h2> : null}
@@ -216,24 +206,23 @@ const Home = () => {
                 )}
 
                 {mission?.cta?.label && mission?.cta?.href ? (
-                  <a
+                  <LinkButton
                     href={mission.cta.href}
-                    className="btn-primary inline-flex items-center space-x-2"
-                    target={isExternal(mission.cta.href) ? '_blank' : undefined}
-                    rel={isExternal(mission.cta.href) ? 'noopener noreferrer' : undefined}
+                    label={mission.cta.label}
+                    className="inline-flex items-center space-x-2"
                   >
                     <span>{mission.cta.label}</span>
                     {ICONS[mission?.cta?.icon]
                       ? React.createElement(ICONS[mission.cta.icon], { size: 20, 'aria-hidden': true })
                       : null}
-                  </a>
+                  </LinkButton>
                 ) : null}
               </motion.div>
 
               <motion.div
-                initial={{ opacity: 0, x: 50 }}
-                whileInView={{ opacity: 1, x: 0 }}
-                transition={{ duration: 0.8 }}
+                variants={fadeInRight}
+                initial="hidden"
+                whileInView="show"
                 viewport={{ once: true }}
               >
                 {mission?.image?.url ? (
@@ -255,9 +244,9 @@ const Home = () => {
         <section className="py-16 hero-gradient text-white">
           <div className="container mx-auto px-4 text-center">
             <motion.div
-              initial={{ opacity: 0, y: 30 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.8 }}
+              variants={fadeUp}
+              initial="hidden"
+              whileInView="show"
               viewport={{ once: true }}
             >
               {finalCta?.title ? (
@@ -273,7 +262,7 @@ const Home = () => {
               {Array.isArray(finalCta?.buttons) && finalCta.buttons.length > 0 ? (
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   {finalCta.buttons.map((b, i) => (
-                    <Button key={i} {...b} />
+                    <LinkButton key={i} {...b} className="text-lg px-8 py-4" />
                   ))}
                 </div>
               ) : null}
